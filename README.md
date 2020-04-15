@@ -1,4 +1,4 @@
 # FF-Themes
 Themes for Firefox
 
-Here are my best themes for Firefox, please reuse and review them and improve them.
+Here are my best themes for Firefox, please reuse, review and improve them.
