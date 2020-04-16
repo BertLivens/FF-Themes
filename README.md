@@ -1,5 +1,5 @@
 # FF-Themes
-Themes for Firefox
+Themes for Firefox and Thunderbird
 
 Here are my best themes for Firefox, please help them improve.
 
