@@ -1,0 +1,53 @@
+{
+  "manifest_version": 2,
+  "version": "1",
+  "name": "Game Red",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+
+      "frame": "black",
+      "frame_inactive": "darkgray",
+      
+      "tab_background_text": "red",
+      "tab_background_seperator": "black",
+      
+      "button_background_hover": "black",
+      
+      "tab_line": "red",
+      "tab_text":"black",
+      "tab_selected": "red",
+      
+      "toolbar": "black",
+      "toolbar_text": "red",
+      "toolbar_field": "black",
+      "toolbar_field_text": "red",
+      "toolbar_field_border": "red",
+      "toolbar_bottom_seperator": "red",
+      "toolbar_field_focus": "black",
+      "toolbar_field_highlight": "red",
+      "toolbar_field_highlight_text": "black",
+      "toolbar_field_border_focus": "red",
+      "toolbar_vertical_separator": "black",
+      
+      "popup": "black",
+      "popup_text": "red",
+      "popup_highlight": "red",
+      "popup_highlight_text": "black",
+      "popup_border": "red",
+      
+      "tab_loading": "red",
+      
+      "sidebar": "black",
+      "sidebar_text": "red",
+      "sidebar_highlight": "red",
+      "sidebar_highlight_text": "black",
+      "sidebar_border": "red",
+      
+      "ntp_background": "black",
+      "ntp_text": "red"
+
+      }
+  }
+}
